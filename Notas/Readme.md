@@ -10,7 +10,7 @@ Para crear una nueva instancia de una clase debemos crear una variable y asignar
 
 Cada cosa definida dentro de una clase tiene un nivel de acceso, por defecto el nivel de acceso es privado o protegido y esto significa que no pueden modificar o acceder a ese atributo. Para poder acceder por fuera de la clase se debe asignar el nivel de acceso publico con la palabra reservada “public”.
 
-2 # es una H1 v~
+
 
 ```cs
 namespace CoreEscuela.Entidades
